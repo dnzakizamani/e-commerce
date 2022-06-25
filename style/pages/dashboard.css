@@ -1,0 +1,11 @@
+.page-dashboard #page-content-wrapper {
+  background: #f5f5fb;
+  min-width: 100vw;
+}
+
+.page-dashboard #sidebar-wrapper {
+  background: #f5f5fb;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+/*# sourceMappingURL=dashboard.css.map */
